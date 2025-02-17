@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "PetFinder",
   "resources": {
-    "hash": "sha256-uRZHyIJAFY+KTbJmZzILIlEAh0W0zs50wkUuHD4ye3k=",
+    "hash": "sha256-kYAqjbQVBn1H2C4S+TpIUh6GJZa/ZwEGAOLE3+L9PXA=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-VdKq87/z5NIxZKmuM+fv38XF+RcEb/bg3jVBwQSfwP4="
     },
@@ -32,7 +32,7 @@
       "Microsoft.Extensions.Primitives.wasm": "sha256-Bi1hyBMWneH/ByWbqT/pNe0B7I/NQFklzD2g3Whdqlk=",
       "Microsoft.JSInterop.wasm": "sha256-/a2ywBVO60H6ZjqSD/C34ynDNuDMyoatYefSNc+dBaU=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-Jwrlf0VPydOWncfsAvk569TQrosh6ro1Xkc8HzvG2nQ=",
-      "PetFinder.wasm": "sha256-5d1S1F/pJLOgpa6Ctlx9s5ajVZ/KpQJOGmFYtt7ASMY=",
+      "PetFinder.wasm": "sha256-XUzpe+bjOn8MBcAqx80g4wdOHTujg2VfMfVXA6ZX5HA=",
       "System.Collections.Concurrent.wasm": "sha256-fsGXWYBFpRyHM9850ubNCHoAfFHg6aE66XO05gzPMK0=",
       "System.Collections.wasm": "sha256-aB9FaN32wLv2jpH9hXaDBSZEJjZYEFSr4tDQZuDEhCU=",
       "System.ComponentModel.wasm": "sha256-0D0DRqYaKmrhzGtdZW6smjKyylnAR86CtU2JGYAUBY8=",
